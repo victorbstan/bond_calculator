@@ -1,0 +1,14 @@
+bond,type,term,yield
+C1,corporate,1.3 years,3.30%
+C2,corporate,2.0 years,3.80%
+C3,corporate,5.2 years,5.30%
+C4,corporate,9.0 years,6.20%
+C5,corporate,10.1 years,6.40%
+C6,corporate,16.0 years,9.30%
+C7,corporate,22.9 years,12.30%
+G1,government,0.9 years,1.70%
+G2,government,2.3 years,2.30%
+G3,government,7.8 years,3.30%
+G4,government,12 years,5.50%
+G5,government,15.1 years,7.50%
+G6,government,24.2 years,9.80%
